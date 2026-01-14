@@ -114,4 +114,3 @@ Step 5: Follow the on screen menus to perform the following:-
 **Version Control and Collaboration**  
 This project uses Git for version control and collaboration.  
 Main Branch: master  
-Other Branches: ima, junaid, adil, shreyash, aedh
