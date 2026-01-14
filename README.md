@@ -5,8 +5,8 @@
 A comprehensive coffee shop management system built with Java, featuring order management, inventory tracking, and reporting capabilities.
 
 **Group Members:**
-1. Mahenge, Ima – Group Leader
-2. Ishfaq, Junaid
+1. Ishfaq, Junaid
+2. Mahenge, Ima
 3. Kazi, Adil
 4. Alshehri, Aedh
 5. Mane, Shreyash
